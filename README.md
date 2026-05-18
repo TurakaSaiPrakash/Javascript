@@ -9,7 +9,5 @@
 7.multiplecation
 8.division
 18/5/26
-addition 
-subration
-multiplication
-array
+1.even 
+2.odd
