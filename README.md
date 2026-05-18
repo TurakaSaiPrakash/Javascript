@@ -8,3 +8,8 @@
 6.subraction
 7.multiplecation
 8.division
+18/5/26
+addition 
+subration
+multiplication
+array
